@@ -54,7 +54,7 @@
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="end on channel 2"
+        android:text="send on channel 2"
         android:onClick="sendOnChannel2"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
